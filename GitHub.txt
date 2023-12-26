@@ -24,7 +24,11 @@ Git Reset- hard <commit hash> If unique commit ID or no is given the Git will re
 
 Branching 
     -- With any error bug the commiting is done and with that source code from repository another feature is developed and 
-
+ 999
+11
+11
+22
+33
 
 
 
