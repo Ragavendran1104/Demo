@@ -1,0 +1,31 @@
+Version Control- keep tracking of code
+
+Git helps us for a Verison control and synchronise code
+
+Git is a source
+
+Git hub -It is Web based Git Repository Hosting Service
+
+Git Add - file or anything want to track and use
+
+Git Status- Shows whether the file is added or not and what process is going in local repositiry
+
+Git Commit -git commit- "Msg" --> msg helps us to why the changes are done and what it is done for like description
+
+Git push- Pushing the changes from Local repository to Server repository
+
+We can also commit changes directly in the repository by using edit option available in the Github instead of downloading it from public to local and commit it to local to public 
+
+Git Pull- It will pull the Committed changes from the repository to local
+
+Merge conflicts - If it happens while pulling from the server it will say Merge conflicts Automatic Merge failed
+
+Git Reset- hard <commit hash> If unique commit ID or no is given the Git will reset back to that particular version or change 
+
+Branching 
+    -- With any error bug the commiting is done and with that source code from repository another feature is developed and 
+
+
+
+
+
